@@ -5,13 +5,9 @@
 
 ## 🚀 Completion looks like:
 
-This homework has two parts.
+You will work in the `birds-app` folder
 
-### Part One: SQL
-
-- Follow the instructions in the [carmen-starter directory](./carmen-starter).
-
-### Part Two: Build an application about birds
+### Your task: To build an application about birds
 
 - Follow the instructions in the [birds-app directory](./birds-app).
 
