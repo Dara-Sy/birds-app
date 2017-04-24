@@ -1,7 +1,7 @@
 ![You are awesome image](./img/awesome.jpg)
 
 
-# HOMEWORK: Express Routes and SQL!!
+# HOMEWORK: Express Routes!!
 
 ## 🚀 Completion looks like:
 
