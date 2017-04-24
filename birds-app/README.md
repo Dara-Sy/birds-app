@@ -2,6 +2,13 @@
 
 ## REPS ON REPS ON REPS
 
+
+#### READING:
+[Express Hello World](http://expressjs.com/en/starter/hello-world.html)
+
+[Express Routing](http://expressjs.com/en/starter/basic-routing.html)
+
+
 Using `express-quotes` app, and the [cheatsheet]('https://git.generalassemb.ly/nyc-wdi-ada/HW_U02_D06_EXPRESS_INTRO_-_SQL/blob/master/cheatsheet.md') (Yeap, I'm that nice today ...) as a guide, build your own application **from scratch**.
 
 Your app should have the following routes:
