@@ -67,15 +67,15 @@ console.log(`My awesome app is listening on port ${port}`);
 ```bash
 npm run dev
 ```
-This command will start the sever, and at this poin, you should be able to see your message: `My awesome app is listening on port 3000` Great! **MAKE SURE YOUR SERVER IS RUNNING ALL THE TIME**
+This command will start the sever, and at this poin, you should be able to see your message: `My awesome app is listening on port 3000` Great! **MAKE SURE YOUR SERVER IS RUNNING WHILE YOU ARE WORKING ON**
 
-13. Still, in `app.js` create a root route and send a string (any string you like) as a response. Like so:
+13. ☛ Still, in `app.js` create a root route and send a string (any string you like) as a response. Like so:
 ```js
 app.get('/', function(req,res){
   res.send('HELLOoOOOoOOoOOOooO, WORLD! <h1>This is ROOT route</h1>');
 });
 ```
 
-14. Now you can go to `localhost:3000/` in your browser, aaaaaand ... you have your very own basic home route set up 🎉
+14. ☛ Now you can go to `localhost:3000/` in your browser, aaaaaand ... you have your very own basic home route set up 🎉
 
 The rest of the routes you will need to create on your own. Look into the FULLY COMMENTED out `express-quotes` app for reference. Or follow the notes from the lecture.
