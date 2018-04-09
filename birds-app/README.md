@@ -18,6 +18,8 @@ Your app should have the following routes:
 
 You are given mock database in the `/db/birds.js` file :thumbsup:
 
-#### Feeling awesome? 💪 HERE is **Bonus** 🎉:
+#### Feeling awesome? 💪 HERE is a **Bonus** 🎉:
 * Create a separate route `/birds/nyc` to send all data about all birds **from NYC**
 > Hint! You would need to use some kind of loop to to through the array of birds objects and only return only the ones that have `city` of NYC as a property. :tada:
+
+#### If you need help getting started there is a handy dandy cheatsheet [here](../cheatsheet.md)
