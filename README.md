@@ -13,8 +13,6 @@ You will work in the `birds-app` folder
 
 ## 🚀 Your homework submission should include:
 
-- An issue ticket created on the repo `ada-students` [here](https://git.generalassemb.ly/nyc-wdi-ada/ada-students/issues/new)
-- A link to your fork of this repository
-- Completion, comfort, wins, losses, questions... you know the drill.
+- A pull request on this repo. Remeber to include your name as well as completion comfort etc.
 
 ## This homework is due 🚨 11PM ON MONDAY NIGHT! 🚨
