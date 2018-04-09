@@ -23,6 +23,6 @@ If you are **WDI-Rover-Opportunity** 🔴, click on the link below!
 
 If you are **WDI-Rover-Spirit** 🔵, click on the link below!
 
-[exit ticket](https://goo.gl/forms/A5DFbfQLwpomDuhF2)
+[Spirit Exit Ticket](https://goo.gl/forms/A5DFbfQLwpomDuhF2)
 
 ## This homework is due 🚨 11PM ON MONDAY NIGHT! 🚨
