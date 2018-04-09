@@ -19,6 +19,7 @@ You will work in the `birds-app` folder
 
 If you are **WDI-Rover-Opportunity** 🔴, click on the link below!
 
+[Opportunity Exit Ticket](https://docs.google.com/forms/d/1G2u00-DF2IWHq9FFhbbbOA5aXe5Fx8QQSYqHayt7yUE/edit)
 
 If you are **WDI-Rover-Spirit** 🔵, click on the link below!
 
