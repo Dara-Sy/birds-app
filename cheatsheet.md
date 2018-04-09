@@ -77,5 +77,3 @@ app.get('/', function(req,res){
 ```
 
 14. ☛ Now you can go to `localhost:3000/` in your browser, aaaaaand ... you have your very own basic home route set up 🎉
-
-The rest of the routes you will need to create on your own. Look into the FULLY COMMENTED out `express-quotes` app for reference. Or follow the notes from the lecture.
