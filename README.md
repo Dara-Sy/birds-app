@@ -13,6 +13,15 @@ You will work in the `birds-app` folder
 
 ## 🚀 Your homework submission should include:
 
-- A pull request on this repo. Remeber to include your name as well as completion comfort etc.
+- A pull request on this repo. Remeber to include your name as well as completion, comfort etc.
+
+## Exit tickets
+
+If you are **WDI-Rover-Opportunity** 🔴, click on the link below!
+
+
+If you are **WDI-Rover-Spirit** 🔵, click on the link below!
+
+[exit ticket](https://goo.gl/forms/A5DFbfQLwpomDuhF2)
 
 ## This homework is due 🚨 11PM ON MONDAY NIGHT! 🚨
